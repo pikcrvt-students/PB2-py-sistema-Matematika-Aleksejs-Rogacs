@@ -1,1 +1,54 @@
-https://www.uzdevumi.lv/p/matematika/10-klase/vienadojumi-4238/kvadratvienadojums-un-augstaku-pakapju-vienadojumi-12989/re-80966e9b-ac8a-4b14-8e55-6e801c9f9498
+Teorija
+
+Kvadrātvienādojumu atrisināšanas metodes
+Vienādojumu ax**2+bx+c=0, kur a, b un c ir reāli skaitļi un a≠0, sauc par kvadrātvienādojumu.
+
+Kvadrātvienādojuma saknes var atrast pēc formulām:
+x1 = -b+√D/2a 
+x2 = -b-√D/2a 
+D = b**2 -4*a*c
+Vērtību D sauc par diskriminantu. 
+
+Pēc diskriminanta vērtības var noteikt kvadrātvienādojuma sakņu skaitu.
+Ja D<0 (negatīvs), tad vienādojumam nav atrisinājuma reālo skaitļu kopā.
+Ja D=0, tad vienādojumam ir divas vienādas saknes.
+Ja D>0 (pozitīvs), tad vienādojumam ir divas dažādas saknes.
+
+Kvadrātvienādojumu x2+bx+c=0 var risināt, izmantojot Vjeta teorēmu: 
+x1*x2=c
+x1+x2=-b
+Ievēro: koeficients pie x**2 ir a=1!
+
+
+Nepilnie kvadrātvienādojumi
+
+Ir divu veidu nepilnie kvadrātvienādojumi:
+1. Ja c=0, tad vienādojums ir ax**2+bx=0
+2. Ja b=0, tad ax**2+c=0.
+
+Nepilnos kvadrātvienādojumus drīkst risināt ar diskriminanta formulām, 
+bet racionālāk būs izvēlēties speciālas metodes:
+
+1) ax**2+bx=0 risina, sadalot reizinātājos (iznesot pirms iekavām x).
+x(ax+b)=0
+Tātad x=0 vai ax+b=0. (Jo divu skaitļu reizinājums ir vienāds ar nulli
+tikai tad, ja vismaz viens no šiem skaitļiem ir 0.)
+Viena sakne ir 0, bet otra sakne ir x=-b/a
+
+2) ax**2+c=0 risina, pārnesot saskaitāmos dažādās pusēs un tad velkot kvadrātsakni.
+ax2=−c (izdala abas puses ar a)
+x**2=−c/a 
+|x|=√ -c/a
+Tas nozīmē, ka x1 = sqrt(-c/a)   un  x2= -sqrt(-c/a)
+
+Vienādojuma atrisināšana, sadalot reizinātājos
+
+Ja divu vai vairāku lielumu reizinājums ir 0, tad vismaz viens no reizinātājiem ir 0.
+(Tas nozīmē, ka visiem reizinātājiem reizē nav obligāti jābūt vienādiem ar nulli, tāpēc raksta vārdu "vai").
+
+1) Visus locekļus pārnes vienādojuma kreisajā pusē, labajā pusē jābūt 0.     x**3=16x --> x**3 - 16x=0 
+2) Kreiso pusi sadala reizinātājos.       x(x**2−16)=0
+3) Katru reizinātāju pielīdzina 0.        x=0 vai x**2−16=0
+4) Atrisina katru no iegūtajiem vienādojumiem. x=0     x**2=16 ----> |x|=4
+5) Uzraksta atbildi.     x1=0, x=−4, x=4
+
