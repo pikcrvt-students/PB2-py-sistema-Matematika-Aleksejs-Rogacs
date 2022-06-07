@@ -7,6 +7,9 @@
 - Pārbaudes darbs sastāv no 5 uzdevumiem. 3 piemeri un 2 teksta uzdevumi. Par katru uzdevumu var iegūt 2 punktus. 1 punkts ir vienāds ar 1 balle.
 - Pēc visu kontroldarba uzdevumu izpildes skolēns varēs redzēt savu atzīmi. 
 
+## Programmešanas valoda
+- Python
+
 ## Informācijas avoti 
 
 https://www.uzdevumi.lv/p/matematika/10-klase/vienadojumi-4238/kvadratvienadojums-un-augstaku-pakapju-vienadojumi-12989
