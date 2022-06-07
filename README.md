@@ -8,4 +8,5 @@
 - Pēc visu kontroldarba uzdevumu izpildes skolēns varēs redzēt savu atzīmi. 
 
 ##Informācijas avoti 
+
 https://www.uzdevumi.lv/p/matematika/10-klase/vienadojumi-4238/kvadratvienadojums-un-augstaku-pakapju-vienadojumi-12989
